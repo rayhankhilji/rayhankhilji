@@ -1,14 +1,9 @@
 ## Rayhan Khilji
 
-I build the thing I wish existed and got tired of waiting for. Designer and developer in London, working end to end, from what it should do to the version people actually use.
+17, London, England. Founder @ [Lumi](https://www.trylumi.co).
 
-**Now**
+I was homeschooled my whole childhood. My mum taught me everything in the way I learned best, built around whatever I was into at the time. Later I read into pedagogy and found Benjamin Bloom's [2 sigma problem](https://web.mit.edu/5.95/readings/bloom-two-sigma.pdf): students tutored one to one do about two standard deviations better than students in a classroom, and almost no one can afford a tutor. Lumi is my go at closing that gap, a personalised one to one tutor anyone can afford.
 
-- [Lumi](https://trylumi.co): a tutor that teaches on a live whiteboard instead of in a chat window. 140 users in the first 5 days.
-- Arclight: applied AI engineering for companies in London and the Gulf.
-
-**Also built:** [tensorvm](https://github.com/rayhankhilji/tensorvm), a neural network runtime written from scratch. [jellybean](https://github.com/rayhankhilji/jellybean), structural codebase search for coding agents. [flipbook](https://github.com/rayhankhilji/flipbook), a macOS reader that behaves like a real book.
-
-I ship early and get it wrong in front of people on purpose. Most of it starts as a side project and some of it turns into a company.
+Inspired by [@agmiklas](https://github.com/agmiklas).
 
 [rayhan.website](https://www.rayhan.website) · [LinkedIn](https://www.linkedin.com/in/khiljir) · [X](https://x.com/rayhankhilji)
