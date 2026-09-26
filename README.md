@@ -25,8 +25,8 @@ the bet             →   the future belongs to generalists who can go one level
 
 ### 🚀 building right now
 
-- **[Lumi](https://trylumi.co)** — a personal AI tutor that teaches on a live whiteboard, drawing the diagram while it explains it. You can cut in mid-sentence and it re-explains a different way. Built against the exam boards, not a generic syllabus. **140 users in its first 5 days.**
-- **Arclight** — applied AI engineering for companies in London and the Gulf, run through a network of builders I meet at hackathons.
+- **[Lumi](https://trylumi.co)** is a personal AI tutor that teaches on a live whiteboard, drawing the diagram while it explains it. You can cut in mid-sentence and it re-explains a different way. Built against the exam boards, not a generic syllabus. **140 users in its first 5 days.**
+- **Arclight** does applied AI engineering for companies in London and the Gulf, run through a network of builders I meet at hackathons.
 
 ### 🧪 stuff I've made
 
