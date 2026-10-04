@@ -8,7 +8,7 @@ Inspired by [@agmiklas](https://github.com/agmiklas).
 
 Also built:
 - https://www.tryoptic.app (acquired)
-- https://www.intake.ink (300+ users)
+- https://www.intake.ink (30+ users)
 - https://www.voluble.works (50 downloads)
 - https://www.infiki.wtf (24 DAU's)
 - https://www.sidequest.cyou (288 signups)
