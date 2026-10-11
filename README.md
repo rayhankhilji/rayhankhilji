@@ -7,14 +7,15 @@ I was homeschooled my whole childhood. My mum taught me everything in the way I 
 Inspired by [@agmiklas](https://github.com/agmiklas).
 
 Also built:
-- https://www.tryoptic.app (acquired)
-- https://www.intake.ink (30+ users)
-- https://www.voluble.works (50 downloads)
-- https://www.infiki.wtf (24 DAU's)
-- https://www.sidequest.cyou (288 signups)
-- https://www.sottovoice.online (free forever!)
-- https://www.duocorn.dev (coming soon!)
-- https://www.builddit.dev (coming soon!)
-- https://www.gitport.works (coming soon!)
+- [Optic](https://www.tryoptic.app) (acquired)
+- [Intake](https://www.intake.ink) (30+ users)
+- [Voluble](https://www.voluble.works) (50 downloads)
+- [Infiki](https://www.infiki.wtf) (24 DAU's)
+- [sidequest](https://www.sidequest.cyou) (288 signups)
+- [Sotto](https://www.sottovoice.online) (free forever!)
+
+* [Duocorn](https://www.duocorn.dev) (coming soon!)
+* [Builddit](https://www.builddit.dev) (coming soon!)
+* [GitPort](https://www.gitport.works) (coming soon!)
 
 [rayhan.website](https://www.rayhan.website) · [LinkedIn](https://www.linkedin.com/in/khiljir) · [X](https://x.com/rayhankhilji)
