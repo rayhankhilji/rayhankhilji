@@ -11,8 +11,8 @@ Also built:
 - [Intake](https://www.intake.ink) (30+ users)
 - [Voluble](https://www.voluble.works) (50 downloads)
 - [Infiki](https://www.infiki.wtf) (24 DAU's)
-- [SideQuest](https://www.sidequest.cyou) (288 signups)
-- [SottoVoice](https://www.sottovoice.online) (free forever!)
+- [sidequest](https://www.sidequest.cyou) (288 signups)
+- [Sotto](https://www.sottovoice.online) (free forever!)
 
 * [Duocorn](https://www.duocorn.dev) (coming soon!)
 * [Builddit](https://www.builddit.dev) (coming soon!)
