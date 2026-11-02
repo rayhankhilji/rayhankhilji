@@ -7,7 +7,7 @@ I was homeschooled my whole childhood. My mum taught me everything in the way I 
 Inspired by [@agmiklas](https://github.com/agmiklas).
 
 Also built:
-- [Optic](https://www.tryoptic.app) (acquired)
+- [Optic](https://www.tryoptic.app) (failed)
 - [Intake](https://www.intake.ink) (30+ users)
 - [Voluble](https://www.voluble.works) (50 downloads)
 - [Infiki](https://www.infiki.wtf) (24 DAU's)
