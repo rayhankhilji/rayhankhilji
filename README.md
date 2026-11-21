@@ -12,8 +12,8 @@ Prev. built:
 - [Sotto](https://www.sottovoice.online)
 - [Delightful](https://www.delightful.click)
 - [Sekoto](https://www.sekoto.app)
-- [Washed Up](https://www.washed-up.rayhankhilji.workers.dev)
-- [Equation I](https://www.equation-i.vercel.app)
+- [Washed Up](https://washed-up.rayhankhilji.workers.dev)
+- [Equation I](https://equation-i.vercel.app)
 
 
   
